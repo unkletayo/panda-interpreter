@@ -1,6 +1,6 @@
 package lexer
 
-import "github.com/unkletayo/monkey/token"
+import "github.com/unkletayo/panda/token"
 
 /*
 TODO:  Support unoicode characters later

@@ -3,9 +3,9 @@ package parser
 import (
 	"fmt"
 
-	"github.com/unkletayo/monkey/ast"
-	"github.com/unkletayo/monkey/lexer"
-	"github.com/unkletayo/monkey/token"
+	"github.com/unkletayo/panda/ast"
+	"github.com/unkletayo/panda/lexer"
+	"github.com/unkletayo/panda/token"
 )
 
 type Parser struct {
